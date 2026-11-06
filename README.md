@@ -40,6 +40,8 @@ Law firm website & ad landing page — generated 10+ real WhatsApp inquiries aft
 Modular management system for SMEs — bookings, inventory, orders, invoices, customer statements and a simple website builder, with multi-tenant accounts and bilingual UI.
 模块化中小企业管理系统：预约、库存、订单、发票、客户对账单和简易网站，多商家账户，中英双语界面。
 
+<img src="images/infinidesk.png" alt="InfiniDesk dashboard" width="640">
+
 ### Property Agent Demo / 房地产经纪 Demo
 A premium website concept for a Seremban property agent — listings, team profile and viewing appointments.
 为芙蓉房地产经纪设计的高端网站示范：房源展示、团队介绍、预约看房。
