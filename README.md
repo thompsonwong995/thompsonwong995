@@ -28,6 +28,14 @@ My business website — custom websites and systems for local shops, one-time pa
 
 <img src="images/thompson-page.png" alt="thompsonwong.my" width="640">
 
+### Law Firm Website / 律师事务所官网
+Law firm website & ad landing page — generated 10+ real WhatsApp inquiries after launch.
+律师事务所官网 + 广告落地页，上线后带来 10+ 真实 WhatsApp 客户询问。
+
+🔗 [imransampartners.my](https://imransampartners.my)
+
+<img src="images/law-firm.png" alt="Law firm website" width="640">
+
 ### InfiniDesk
 Modular management system for SMEs — bookings, inventory, orders, invoices, customer statements and a simple website builder, with multi-tenant accounts and bilingual UI.
 模块化中小企业管理系统：预约、库存、订单、发票、客户对账单和简易网站，多商家账户，中英双语界面。
@@ -39,10 +47,6 @@ A premium website concept for a Seremban property agent — listings, team profi
 🔗 [Live demo](https://property-agent-demo-zeta.vercel.app)
 
 <img src="images/property-agent-demo.png" alt="Property Agent Demo" width="640">
-
-### Profile CMS Template / Profile CMS 模板
-A business profile website template with its own admin panel, so owners can update content themselves.
-自带后台管理的商家网站模板，店家可以自己更新内容。
 
 ### 日行一善 (fortune-daily) — ⏸️ Paused / 已暂停
 An AI-automated site: daily Chinese zodiac readings generated automatically every day, with online payment for premium readings.
